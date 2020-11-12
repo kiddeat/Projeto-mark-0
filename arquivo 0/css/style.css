@@ -1,0 +1,10 @@
+.valor{
+    font-size:1.5em;
+    color: #F00;
+    font-weight: bold;
+
+}
+.de{
+    font-size:1.2em;
+    text-decoration: line-through;
+}
